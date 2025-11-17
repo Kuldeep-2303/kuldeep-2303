@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kuldeep-2303&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=THECH13F3&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
   <a href="https://linkedin.com/in/kuldeep-khalotiya">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"/>
   </a>
