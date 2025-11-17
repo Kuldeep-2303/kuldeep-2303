@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=THECH13F3&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=KULDEEP-2303&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
   <a href="https://linkedin.com/in/kuldeep-khalotiya">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"/>
   </a>
@@ -92,7 +92,7 @@ Teamwork · Problem Solving · Adaptability · Communication
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kuldeep-2303&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=THECH13F&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuldeep-2303&theme=react&hide_border=true" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuldeep-2303&layout=compact&theme=react&hide_border=true" alt="Top Languages"/>
 </p>
