@@ -92,7 +92,7 @@ Teamwork · Problem Solving · Adaptability · Communication
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=THECH13F&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kuldeep-2303&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuldeep-2303&theme=react&hide_border=true" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuldeep-2303&layout=compact&theme=react&hide_border=true" alt="Top Languages"/>
 </p>
