@@ -64,7 +64,7 @@ Teamwork · Problem Solving · Adaptability · Communication
 
 ---
 
-### 🎓 [Smart Classroom Monitoring System](https://github.com/Kuldeep-2303/Smart-Classroom)
+### 🎓 [RealTimeAtendance](https://github.com/Kuldeep-2303/Smart-Classroom)
 **Tech:** Python · Flask · OpenCV · TensorFlow · Firebase  
 **Highlights:**  
 - Built an **AI-based face recognition system** for automated attendance.  
